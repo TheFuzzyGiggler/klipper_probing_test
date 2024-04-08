@@ -32,7 +32,7 @@ How do you play into this? Well, my above theory on my patch is good in.. er.. t
 
 So this is my call for aide from the Klipper community.  
 Come forth adventurers and try thy hand at increased homing/probing accuracy.  
-(Don't worry, It's reversable)
+(Don't worry, It's reversible)
 
 
 ## Installation
