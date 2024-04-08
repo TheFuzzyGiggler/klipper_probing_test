@@ -28,7 +28,7 @@ It does this so well in fact, you can tell where the stepper motors WERE when th
 My patch simply takes the difference between the halting position and the trigger position and moves the stepper motors back to the position they were at when the probe/endstop triggered.  
 Thus restoring balance to all things and bringing accuracy and good tidings to all of Klipperdom.
 
-How do you play into this? Well, my above theory on my patch is good in.. er.. theory... and it's worked well for me... It needs wider testing before prime-time.
+How do you play into this? Well, the above theory on my patch is good in.. er.. theory... and it's worked well for me... It needs wider testing before prime-time.
 
 So this is my call for aide from the Klipper community.  
 Come forth adventurers and try thy hand at increased homing/probing accuracy.  
