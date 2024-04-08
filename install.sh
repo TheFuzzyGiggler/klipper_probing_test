@@ -5,8 +5,6 @@
 #
 # This file may be distributed under the terms of the GNU GPLv3 License.
 
-#!/bin/bash
-
 # Force script to exit if an error occurs
 set -e
 
